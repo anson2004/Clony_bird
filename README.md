@@ -2,4 +2,4 @@
 
 A Unity3d Project for Clony Bird. It is for educational purpose only.
 
-Tested for Samsung S3
+Tested in Samsung S3
